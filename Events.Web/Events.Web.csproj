@@ -273,6 +273,8 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Shared\DisplayTemplates\EventViewModel.cshtml" />
+    <Content Include="Views\Home\_EventDetails.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
